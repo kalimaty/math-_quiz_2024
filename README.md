@@ -1,5 +1,11 @@
 # Division random question App
 
+![1](https://github.com/kalimaty/math-_quiz_2024/assets/105967966/724f9f8b-7322-4fe8-8fdb-12c2069a29c7)
+
+
+
+![2](https://github.com/kalimaty/math-_quiz_2024/assets/105967966/27ea5ff3-38ec-47da-8ee5-0cb15427dfe3)
+
 The app can generate random multiplication questions.
 
 ## Table of Contents
